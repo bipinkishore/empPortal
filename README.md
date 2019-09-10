@@ -1,5 +1,5 @@
 # empPortal
-This application was generated using JHipster 5.4.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.4.1](https://www.jhipster.tech/documentation-archive/v5.4.1).
+This application was generated using Spring boot and angular 6 frameworks.
 
 ## Development
 
